@@ -1,0 +1,16 @@
+# This file allows you to configure what blocks are dropped when you use a silktouch
+blocks:
+  #Coal ore
+  - blockID: 16
+    dropID: 263
+    count: 1
+  #Lapis ore
+  - blockID: 21
+    dropID: 351
+    damage: 4
+    count: 1
+  #Diamond ore
+  - blockID: 56
+    dropID: 264
+    count: 1
+  
